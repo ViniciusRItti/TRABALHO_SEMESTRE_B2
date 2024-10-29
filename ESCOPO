@@ -1,0 +1,12 @@
+O aplicativo de gestão de esportes tem como principal objetivo facilitar o gerenciamento de informações sobre atletas e equipes. Ele permitirá que os usuários cadastrem, visualizem e gerenciem suas atividades esportivas de maneira eficiente, proporcionando uma interface intuitiva e funcional.
+
+As funcionalidades principais incluem uma tela inicial que apresenta um menu de navegação com as opções: Cadastro e lista de equipes. Para o cadastro de atletas, haverá um formulário com campos para Nome e Idade. O formulário contará com um botão para salvar as informações e retornar à tela inicial.
+
+O aplicativo permitirá a visualização de dados por meio de listagens de todos os atletas. A geração de relatórios permitirá análises de desempenho dos atletas por nome e idade.
+
+O aplicativo terá as seguintes telas desenvolvidas:
+
+Tela Inicial: Apresenta um menu com as opções: Cadastro e atletas.
+Tela de Cadastro de Atletas: Formulário para inserir Nome e Idade.
+Tela de Listagem de Atletas: Exibe todos os atletas cadastrados.
+Nas Telas de Cadastro (Atletas), após salvar um cadastro, o usuário retorna à Tela Inicial. Nas Telas de Listagem (Atletas e idade). Essa estrutura de telas e navegação proporciona uma experiência intuitiva e eficiente para os usuários do aplicativo.
